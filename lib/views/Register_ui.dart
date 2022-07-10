@@ -53,7 +53,7 @@ class _RegisterUIState extends State<RegisterUI> {
                     ),
                     filled: true,
                     fillColor: Colors.white,
-                    hintText: 'ป้องรหัสนักศึกษา',
+                    hintText: 'ป้อนรหัสนักศึกษา',
                   ),
                 ),
               ),
@@ -87,7 +87,7 @@ class _RegisterUIState extends State<RegisterUI> {
                     ),
                     filled: true,
                     fillColor: Colors.white,
-                    hintText: 'ป้องเบอร์โทรศัพท์',
+                    hintText: 'ป้อนเบอร์โทรศัพท์',
                   ),
                 ),
               ),
@@ -104,7 +104,7 @@ class _RegisterUIState extends State<RegisterUI> {
                     ),
                     filled: true,
                     fillColor: Colors.white,
-                    hintText: 'ป้องรหัสผ่าน',
+                    hintText: 'ป้อนรหัสผ่าน',
                   ),
                 ),
               ),
@@ -121,7 +121,7 @@ class _RegisterUIState extends State<RegisterUI> {
                     ),
                     filled: true,
                     fillColor: Colors.white,
-                    hintText: 'ป้องยืนยันรหัสผ่าน',
+                    hintText: 'ป้อนยืนยันรหัสผ่าน',
                   ),
                 ),
               ),
@@ -146,7 +146,7 @@ class _RegisterUIState extends State<RegisterUI> {
                   ),
                 ),
               ),
-            Center(
+              Center(
                 child: Column(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
@@ -175,7 +175,6 @@ class _RegisterUIState extends State<RegisterUI> {
                         ),
                       ],
                     ),
-                    
                   ],
                 ),
               ),

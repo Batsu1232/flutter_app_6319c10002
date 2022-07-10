@@ -66,7 +66,7 @@ class _LoginUIState extends State<LoginUI> {
                     ),
                     filled: true,
                     fillColor: Colors.white,
-                    hintText: 'ป้องรหัสนักศึกษา',
+                    hintText: 'ป้อนรหัสนักศึกษา',
                   ),
                 ),
               ),
